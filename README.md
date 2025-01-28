@@ -1,4 +1,4 @@
-# PNG to JPG Converter
+# PNG to ICO Converter
 
 PNG to ICO converter effortlessly transforms PNG images into ICO format. Simply upload your PNG files, preview them, and manage your selection by adding or removing files as needed. This free online tool ensures high image quality throughout the conversion process. Once the conversion is complete, download your new ICO files with ease.
 
